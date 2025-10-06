@@ -1,0 +1,49 @@
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+*.dist-info/
+.venv/
+venv/
+.env
+.env.*
+.envrc
+.python-version
+.mypy_cache/
+.pytest_cache/
+.coverage
+htmlcov/
+.ruff_cache/
+
+# --- Node / Frontend (si aplica) ---
+node_modules/
+npm-debug.log*
+yarn-error.log
+pnpm-lock.yaml
+
+# --- Construcción / empaques ---
+build/
+dist/
+*.log
+
+# --- Jupyter / Notebooks ---
+.ipynb_checkpoints/
+
+# --- Editores / IDE ---
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --- Otros ---
+.cache/
+Thumbs.db
